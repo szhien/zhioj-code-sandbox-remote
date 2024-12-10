@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.zhien</groupId>
-    <artifactId>zhioj-code-sandbox</artifactId>
+    <artifactId>zhioj-code-sandbox-remote</artifactId>
     <version>1.0.2.RELEASE</version>
     <name>zhioj-code-sandbox</name>
     <description>zhioj-code-sandbox</description>
